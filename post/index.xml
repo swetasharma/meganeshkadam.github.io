@@ -6,8 +6,48 @@
     <description>Recent content in Posts on Ganesh Kadam&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 28 May 2016 07:30:12 +0530</lastBuildDate>
+    <lastBuildDate>Sun, 26 Jun 2016 11:00:12 +0530</lastBuildDate>
     <atom:link href="https://meganeshkadam.github.io/post/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Python Pune June 2016 meetup</title>
+      <link>https://meganeshkadam.github.io/post/python-june-2016/</link>
+      <pubDate>Sun, 26 Jun 2016 11:00:12 +0530</pubDate>
+      
+      <guid>https://meganeshkadam.github.io/post/python-june-2016/</guid>
+      <description>
+
+&lt;h1 id=&#34;python-pune-meetup-june-2016-data-dojo&#34;&gt;Python Pune Meetup June 2016 : Data Dojo&lt;/h1&gt;
+
+&lt;p&gt;Python Pune Meetup organized the Data Dojo on 25th June 2016 at Red Hat, Pune. This time its was a kind of hackathon for exploring the Python Pandas,NumPy and Matplotlib that we learned in the last seroes of Data Science meetup.&lt;/p&gt;
+
+&lt;p&gt;Here are the data sets that were used for Data Dojo:&lt;/p&gt;
+
+&lt;ol&gt;
+&lt;li&gt;&lt;a href=&#34;http://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data&#34;&gt;Adult Data: Male/Female names&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&#34;https://data.gov.in/resources/indian-railways-time-table-trains-available-reservation-03082015/download&#34;&gt;Train Time Table&lt;/a&gt;&lt;/li&gt;
+&lt;/ol&gt;
+
+&lt;p&gt;Initially &lt;a href=&#34;https://twitter.com/ciypro&#34;&gt;@ciypro&lt;/a&gt; explained what are the pre-requisites for Data Dojo, and what actually it means. Later &lt;a href=&#34;https://twitter.com/sudarshan1989&#34;&gt;@sudarshan&lt;/a&gt; gave us two data sets to explore. Attendees have to create a group of 3 each and choose any one of them or the one of their own choice and upload it to their repo on Git Hub and share it on meetup page.&lt;/p&gt;
+
+&lt;p&gt;Around 25 Pythonistas turned up for this hackathon as expected, but the one&amp;rsquo;s who came tried their hands on with Python Pandas. Most of them were intermediates in Python, though every one in this meetup did explored the data sets. Good thing about this meetup was that, most of the attendees knew Pyhton, and just had never heard about Pandas,Numpy and matplotlib. Data Dojo gave them an opportunity to learn these libraries in Python, and take away for them was, Pandas and introductory Data Science skills!&lt;/p&gt;
+
+&lt;p&gt;We finally asked every one to present their work to all, and the ones who did got some goodies as well!
+Here are links to the work done by some attendees :&lt;/p&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/tanayseven/python_data_dojo&#34;&gt;Tanay Prabhudesai&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/ketulgupta1995/Python-Data-Dojo&#34;&gt;Ketul Gupta&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/vksgaikwad3/pypunedojo&#34;&gt;Vikas Gaikwad&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+
+&lt;li&gt;&lt;p&gt;&lt;a href=&#34;https://github.com/chaiku/PyPuneDataDojo2016&#34;&gt;Chaitanya Kukde&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;In our upcoming Python Pune meetup, we will be learning about the scikit-learn basics.Thanks &lt;a href=&#34;https://twitter.com/ciypro&#34;&gt;@ciypro&lt;/a&gt; and &lt;a href=&#34;https://twitter.com/sudarshan1989&#34;&gt;@sudarshan&lt;/a&gt; for giving us this opportunity to volunteer for awesome meetup.&lt;/p&gt;
+</description>
+    </item>
     
     <item>
       <title>Book Review: i want 2 do project. tell me wat 2 do.</title>
@@ -15,41 +55,81 @@
       <pubDate>Sat, 28 May 2016 07:30:12 +0530</pubDate>
       
       <guid>https://meganeshkadam.github.io/post/book-review/</guid>
-      <description>&lt;p&gt;Since my college days, I have been very confused to focus on my interests and the domain I always wanted to work on.I started attending the meetups to keep myself updated with upcoming and new technologies used in Organizations, this helped me learn or at least get to know about the new technologies emerging very fastly, like Docker , OpenStack , OpenShift etc. I have met many people who are so eager to share their knowledge and want newbies to start with OpenSource Contributions. One such amazing experience I had, was at May Fedora Pune Meetup held on 14th May 2016 at &lt;a href=&#34;https://twitter.com/ciypro&#34;&gt;@ciypro&amp;rsquo;s&lt;/a&gt; place.&lt;/p&gt;
+      <description>&lt;p&gt;Since my college days, I have been trying to focus on my interests,
+and the domain that I always wanted to work on. I started attending
+various meetups to keep myself updated with upcoming and new
+technologies used in organizations. This helped me learn or at least
+get to know about the new emerging technologies such as Docker,
+OpenStack, OpenShift etc. I have met many people who are so eager to
+share their knowledge and want newbies to start with Open Source
+contributions. One such amazing experience I had, was at May Fedora
+Pune Meetup held on 14th May 2016 at
+&lt;a href=&#34;https://twitter.com/ciypro&#34;&gt;@ciypro&amp;rsquo;s&lt;/a&gt; place.&lt;/p&gt;
 
-&lt;p&gt;No other experience in this world can be so awesome than to get the book that is signed by the Author himself . Apart from discussing the pin points of the newbies, those who are finding it difficult to start with their OpenSource Contributions, we got an opportunity to ask so many questions to &lt;a href=&#34;https://twitter.com/shakthimaan&#34;&gt;@mbuf&lt;/a&gt;, he had been to Pune for Emacs meetup that was also held on the same day in Morning and so he showed up in Fedora meetup as well. Most of the attendees met him for the first time.&lt;/p&gt;
+&lt;p&gt;No other experience in this world can be so awesome than to get my copy
+of book signed by the author himself. Apart from discussing the pain
+points for newbies, those who are finding it difficult to start with
+their Open Source contributions, we got an opportunity to ask so many
+questions to &lt;a href=&#34;https://twitter.com/shakthimaan&#34;&gt;@mbuf&lt;/a&gt;. He had come to
+Pune for an Emacs meetup that was held the previous day, and showed up
+the following day for the Fedora meetup. Most of the attendees met him
+for the first time.&lt;/p&gt;
 
-&lt;p&gt;Getting back to the main part of a review on his book, I would say it is one of the must-read books for all those who want to get started contributing to OpenSource Softwares. This book really covers everything pretty well that anyone with no or some experience in F/OSS would need to know. This book clears all the essential checkpoints that one should know , like how to communicate in the OpenSource community, how to write codes, how to start on the project you want to work, how to present yourself etc. to name a few.&lt;/p&gt;
+&lt;p&gt;Getting back to the review of his book, I would say it is one of the
+must-read books for all those who want to get started contributing to
+Open Source software. This book really covers everything pretty well
+that anyone with no or some experience in F/OSS would need to
+know. This book clears all the essential checkpoints that one should
+know, like how to communicate in the Open Source community, how to
+program, how to start on the project you want to work, how to present
+yourself etc. to name a few.&lt;/p&gt;
 
-&lt;p&gt;This book has answers to all the questions that a newbie would face while working on some OpenSource project and is good to keep it handy for your reference, wherever you go.&lt;/p&gt;
+&lt;p&gt;This book has answers to all the questions that a newbie would face
+while working on Open Source projects and is good to keep it handy for
+your reference, wherever you go.&lt;/p&gt;
 
-&lt;p&gt;There are 10 chapters in this book. Starting from chapter 1. Mailing Guidelines up to the last, chapter 10. Sustenance , I never felt bored while reading it. As soon as I proceeded chapter by chapter I realized that the book is really well written and the content written in each chapter is very important for one and all. Though some of them might be very basic for some, but they are really essential.&lt;/p&gt;
+&lt;p&gt;There are ten chapters in this book. Starting from &amp;ldquo;Chapter 1. Mailing
+Guidelines&amp;rdquo; up to the last &amp;ldquo;Chapter 10. Sustenance&amp;rdquo;, I have never felt
+bored while reading it. As soon as I proceeded chapter by chapter I
+realized that the book is really well written and the content written
+in each chapter is very important for one and all. Though some of them
+might be very basic for others, but they are really essential.&lt;/p&gt;
 
-&lt;p&gt;Becoming the kind of person who believes these things is important for you — for helping you learn and keeping you motivated. As with all creative arts, the most effective way to become a master is to imitate the mind-set of masters — not just intellectually but emotionally as well.&lt;/p&gt;
+&lt;p&gt;Becoming the kind of person who believes that these things are
+important for you — for helping you to learn and to keep you
+motivated. As with all creative arts, the most effective way to become
+a master is to imitate the mind-set of masters — not just
+intellectually but emotionally as well.&lt;/p&gt;
 
 &lt;p&gt;Or, as the following modern Zen poem has it:&lt;/p&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;To follow the path:&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;To follow the path,
 
-&lt;p&gt;look to the master,&lt;/p&gt;
+look to the master,
 
-&lt;p&gt;follow the master,&lt;/p&gt;
+follow the master,
 
-&lt;p&gt;walk with the master,&lt;/p&gt;
+walk with the master,
 
-&lt;p&gt;see through the master,&lt;/p&gt;
+see through the master,
 
-&lt;p&gt;become the master.&lt;/p&gt;
-&lt;/blockquote&gt;
+become the master.
 
-&lt;p&gt;Above lines are from one of the reference links &lt;a href=&#34;https://twitter.com/shakthimaan&#34;&gt;@mbuf&lt;/a&gt; gave in the meetup : &lt;a href=&#34;http://www.catb.org/~esr/faqs/hacker-howto.html&#34;&gt;The Cathedral and the Bazaar&lt;/a&gt;&lt;/p&gt;
+&lt;/code&gt;&lt;/pre&gt;
 
-&lt;p&gt;There are more amazing quotes in each of the chapters in this book and more motivational. So what are you waiting for ? Do order this from : &lt;a href=&#34;http://www.amazon.in/want-project-tell-wat-do/dp/9351741877&#34;&gt;Amazon&lt;/a&gt; really worth every penny!&lt;/p&gt;
+&lt;p&gt;Above lines are from one of the reference links
+&lt;a href=&#34;https://twitter.com/shakthimaan&#34;&gt;@mbuf&lt;/a&gt; gave in the meetup :
+&lt;a href=&#34;http://www.catb.org/~esr/faqs/hacker-howto.html&#34;&gt;The Cathedral and the Bazaar&lt;/a&gt;&lt;/p&gt;
 
-&lt;p&gt;You can find more about mbuf on his website : &lt;a href=&#34;http://shakthimaan.com/&#34;&gt;Shakthi Kanan&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;There are more amazing quotes in each chapter in this book and are
+motivational. So what are you waiting for? Do order this from :
+&lt;a href=&#34;http://www.amazon.in/want-project-tell-wat-do/dp/9351741877&#34;&gt;Amazon&lt;/a&gt;
+really worth every penny!&lt;/p&gt;
 
-&lt;p&gt;His irc nick is : mbuf on FreeNode at #dgplug channel.&lt;/p&gt;
+&lt;p&gt;You can find more about &amp;ldquo;mbuf&amp;rdquo; on his website :
+&lt;a href=&#34;http://shakthimaan.com/&#34;&gt;Shakthi Kannan&lt;/a&gt;&lt;/p&gt;
+
+&lt;p&gt;His IRC nick is mbuf on Freenode #dgplug channel.&lt;/p&gt;
 
 &lt;p&gt;Happy Hacking!!&lt;/p&gt;
 </description>
