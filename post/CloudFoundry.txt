@@ -1,0 +1,26 @@
+Microservices Lifecycle Explained Through Docker and Continuous Deployment 
+Docker for Java Developers 
+Learn Docker 
+
+
+
+We are building MindSphere (IIoT(Industrial Internet of things) platform) 
+which uses SAP HANA cloud platform(It is an open platform-as-a-service).
+Currently We are using SAP HANA for building services and to deploy.
+SAP HANA cloud platform provides Cloud Foundry as a service.In future we planning to use AWS
+
+
+
+
+
+Sweta Sharma Working as a software engineer for last4 years in various organizations including startups, 
+I have experience in popular cloud platforms AWS Iaas, Pivotal Cloud Foundry PaaS platform. I take great interest 
+in learning and sharing my knowledge on newer technologoes. During leisure i enjoy good soothing music. I believe
+sharing knowledge is my way to make this world a better place. 
+
+
+Introduction to CloudFoundry:
+
+Runtime componennt: instances of your applicatuion runnungs scaling them up or down serving http traffic
+
+
