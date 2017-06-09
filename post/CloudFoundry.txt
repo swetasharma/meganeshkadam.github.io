@@ -23,4 +23,41 @@ Introduction to CloudFoundry:
 
 Runtime componennt: instances of your applicatuion runnungs scaling them up or down serving http traffic
 
+cloud foundry bosh component: deployment and configuration layer and services layer
+
+install cfgem - command line interface for cloud foundry from where you can push your applicaiton
+cloud controller: keeps track of desired state of worls is :
+it keeps track of applicatrion code. application version how many instances you wan t 
+respomsible for upgrading application when you push new code to it
+
+here are all the files that make up the application ckoud controller will take the chekcsums of all the files and say i hav ethese files and  i dont hav e\
+these files send me the differenceyou dont enbd up sending up entire application to cloud foundry every time  you just up the docker to cloud controller
+cloud controller then stores in blob store and once it has received all the files will start deploying your app 
+challenge we have here is that as a developer you tend to only package the code that you need in you application 
+you dont package all the libraries that you need 
+take your source bits an dtransform it into something w can run on cloud foundry 
+staging is where we take code and run build packer on it 
+build packer will look at  your code if it is a ruby app it will install all the ruby gems
+if is a java app iyt will take your code/jar a ndthen it will download the jre and package that up withit it will also package some auto configuration logic 
+library so you dont have to know how to  connect to various services in cloud foundry by the end of this staging process we end up with tar it will start 
+running your application and serving.
+At this point we dont at what framework your applicaiton is we dont need to depend upon what runtime dependencies your application will have it gives all us into the\
+droplet we take that droplet first thingwe do is tha uploading that droplet back to the cloud controller at same time it starts one copy of your app
+your app will run at four different instances at sime for reliability in case if instance failure
+Router component
+Heallt mamager : kill the old version and start the new version
+UAA
+Log aggregation
+
+Cloud Foundry BOSH
+Cloud Foundry services you take stateless runtime layer and state to it. 
+its great to be able to push an app but it does not wok well untill youy have some sort of stateful layer behind it usually it is relational database
+it could be somthoing like redis it could be momgo it could be cassandra that you wanna  bind your appliactions
+
+cloud foundry services are the way that you can enable that 
+
+
+
+
+
 
